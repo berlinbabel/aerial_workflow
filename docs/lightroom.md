@@ -1,4 +1,4 @@
-#Lightroom
+# Adobe Lightroom
 
 Applies to Lightroom 14.5.1
 
