@@ -21,7 +21,7 @@ Copy and edit the following to include paths as described above in some text edi
 
 Run the exif script that you edited above in CMD.
 
-If you have not added Exiftool to PATH then you will need to include path in script like this;
+If you have not added Exiftool to PATH then you will need to include path (in text string from above) like this;
 
 C:\Exiftool\exiftool.exe -n ...
 
