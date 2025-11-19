@@ -24,11 +24,11 @@ C:\Exiftool\exiftool.exe -n ...
 
 #### Step 3
 
-Open python file named Scripts/get_photo_points.py and edit paths.
+Open python file named scripts/get_photo_points.py and edit paths.
 
 #### Step 4
 
-Run python script named Scripts/get_photo_points.py
+Run python script named scripts/get_photo_points.py
 
 #### Step 5
 View results in GIS!
