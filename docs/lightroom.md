@@ -2,6 +2,8 @@
 
 Applies to Lightroom 14.5.1
 
+## Performance Issues
+
 If lightroom is hanging when you first attempt to load a large number (2500) of images, then this may help.
 
 Edit > Preferences
