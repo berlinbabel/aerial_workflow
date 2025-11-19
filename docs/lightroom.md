@@ -16,3 +16,7 @@ Find Performance tab
    change location to something like D:\LR_Cache
    
    And make 'Maximum Size:100 GB
+
+![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
+
+[README](../README.md)
