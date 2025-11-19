@@ -19,6 +19,11 @@ Find Performance tab
    
    And make 'Maximum Size:100 GB
 
+## Catalog
+Delete this folder to remove catalog (deletes LR database and edits), this will enable you to re-import images as if first time import
+1. C:\Users\username\Pictures\Lightroom
+
+
 ![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
 
 [README](../README.md)
