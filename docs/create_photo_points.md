@@ -35,4 +35,4 @@ View results in GIS!
 
 ![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
 
-[README](aerial_workflow/README.md)
+[README](main/README.md)
