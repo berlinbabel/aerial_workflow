@@ -6,10 +6,11 @@ Tips and tricks for processing aerial aquired images.
 The following workflow will create a point shape file from the image exif data.
 
 ### Prerequisites
-<pre>
-Python
-Exiftool (https://exiftool.org/)
-</pre>
+
+1. Python
+
+2. Exiftool https://exiftool.org
+
 
 #### Step 1
 
