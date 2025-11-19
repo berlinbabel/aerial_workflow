@@ -3,6 +3,23 @@ Tips and tricks for processing aerial aquired images.
 
 ## Create photopoints from photo exif data
 
-Find script here
+The following workflow will create a point shape file from the image exif data.
 
-(https://github.com/berlinbabel/aerial_workflow/scripts/get_photo_points.py)
+### Prerequisites
+<pre>
+Python
+Exiftool (https://exiftool.org/)
+</pre>
+
+#### Step 1
+
+PATH_TO_IMAGES - Location of images
+
+PATH_TO_CSV_FILE - Location to write csv file
+
+C:\Exiftool\exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.csv
+
+#### Step 2
+
+Open python file named Scripts/get_photo_points.py and edit paths.
+
