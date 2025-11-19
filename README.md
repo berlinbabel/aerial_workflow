@@ -26,3 +26,5 @@ Open python file named Scripts/get_photo_points.py and edit paths.
 Last updated: YYYY-MM-DD
 
 !Last Commit
+
+page.last_modified_at (with the jekyll-last-modified-at plugin)
