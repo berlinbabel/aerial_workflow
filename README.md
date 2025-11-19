@@ -1,7 +1,7 @@
 # Aerial Workflow
 Tips and tricks for processing aerial aquired images.
 
-## Create photopoints from photo exif data
+## Create photo points from photo exif data
 
 The following workflow will create a point shape file from the image exif data.
 
