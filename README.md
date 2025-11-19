@@ -24,3 +24,5 @@ C:\Exiftool\exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.c
 Open python file named Scripts/get_photo_points.py and edit paths.
 
 Last updated: YYYY-MM-DD
+
+!Last Commit
