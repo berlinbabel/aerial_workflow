@@ -15,7 +15,7 @@ Find Performance tab
    
 2. #### Under heading Camera Raw Cache Settings
   
-   change location to something like D:\LR_Cache
+   Change location to something like D:\LR_Cache
    
    And make 'Maximum Size:100 GB
 
