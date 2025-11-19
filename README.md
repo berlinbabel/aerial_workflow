@@ -13,10 +13,6 @@ Exiftool (https://exiftool.org/)
 
 #### Step 1
 
-PATH_TO_IMAGES - Location of images
-
-PATH_TO_CSV_FILE - Location to write csv file
-
 Edit the following to include paths as described above in some text editor.
 <pre>exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.csv</pre>
 
