@@ -23,4 +23,8 @@ C:\Exiftool\exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.c
 
 Open python file named Scripts/get_photo_points.py and edit paths.
 
+#### Step 3
+
+Run python script named Scripts/get_photo_points.py
+
 ![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
