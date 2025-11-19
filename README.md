@@ -17,13 +17,22 @@ PATH_TO_IMAGES - Location of images
 
 PATH_TO_CSV_FILE - Location to write csv file
 
-C:\Exiftool\exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.csv
+Edit the following to include paths as described above in some text editor.
+<pre>exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.csv</pre>
 
-#### Step 2
+#### Step 3
+
+Run the exif script that you edited above in CMD.
+
+If you have not added Exiftool to PATH then you will need to include path in script like this;
+
+C:\Exiftool\exiftool.exe -n ...
+
+#### Step 4
 
 Open python file named Scripts/get_photo_points.py and edit paths.
 
-#### Step 3
+#### Step 5
 
 Run python script named Scripts/get_photo_points.py
 
