@@ -36,4 +36,6 @@ Run python script named Scripts/get_photo_points.py
 #### Step 5
 View results in GIS!
 
+[Create Photo Points](create_photo_points.md)
+
 ![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
