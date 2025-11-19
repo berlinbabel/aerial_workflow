@@ -13,7 +13,7 @@ Exiftool (https://exiftool.org/)
 
 #### Step 1
 
-Edit the following to include paths as described above in some text editor.
+Copy and edit the following to include paths as described above in some text editor.
 <pre>exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.csv</pre>
 
 #### Step 3
