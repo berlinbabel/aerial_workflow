@@ -1,5 +1,5 @@
-# aerial_workflow
-Tips and tricks for processing aerial aquired data.
+# Aerial Workflow
+Tips and tricks for processing aerial aquired images.
 
 ## Create photopoints from photo exif data
 
