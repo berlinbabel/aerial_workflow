@@ -32,4 +32,7 @@ Open python file named Scripts/get_photo_points.py and edit paths.
 
 Run python script named Scripts/get_photo_points.py
 
+#### Step 6
+View results in GIS!
+
 ![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
