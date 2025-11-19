@@ -1,7 +1,7 @@
 # aerial_workflow
 Tips and tricks for processing aerial aquired data.
 
-##Create photopoints from photo exif data
+## Create photopoints from photo exif data
 
 Find script here
 
