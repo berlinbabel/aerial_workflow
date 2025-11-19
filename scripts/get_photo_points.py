@@ -7,7 +7,7 @@ csv_file = r"PATH_TO_CSV_FILE\exif_output.csv"  # Replace with your file path
 df = pd.read_csv(csv_file)
 
 # 2. Create geometry from X and Y columns
-geometry = [Point(xy) for xy in zip(df['GPSLatitude'], df['GPSLongitude'])]
+geometry = [Point(xy) for xy in zip(df['GPSLongitude'], df['GPSLatitude'])]
 
 # 3. Create GeoDataFrame
 gdf = gpd.GeoDataFrame(df, geometry=geometry, crs="EPSG:4326")  # WGS84 CRS
