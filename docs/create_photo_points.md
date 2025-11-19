@@ -11,7 +11,7 @@ The following workflow will create a point shape file from the image exif data.
 
 #### Step 1
 
-Copy and edit the following to include paths as described above in some text editor.
+Copy and edit the following to include your paths.
 <pre>exiftool.exe -n -csv PATH_TO_IMAGES > PATH_TO_CSV_FILE\exif_output.csv</pre>
 
 #### Step 2
