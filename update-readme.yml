@@ -3,7 +3,7 @@ name: Update README Last Modified Date
 on:
   push:
     branches:
-      - main
+      - '**'   # Matches all branches
 
 jobs:
   update-readme:
