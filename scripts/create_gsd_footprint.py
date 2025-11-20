@@ -10,7 +10,7 @@ SENSOR_WIDTH_MM = 13.2  # mm (DJI typical sensor width)
 EPSG_CODE = 28350  # GDA94 / MGA Zone 50
 
 # --- Load CSV ---
-df = pd.read_csv(r"D:\_RPA_Processing\Stage1\csv\exif_output3.csv")
+df = pd.read_csv(r"D:\_RPA_Processing\Stage1\csv\exif_output.csv")
 
 # Remove rows without GPS coordinates
 df = df.dropna(subset=["GPSLatitude", "GPSLongitude"])
@@ -59,7 +59,7 @@ gdf = gpd.GeoDataFrame(
 )
 
 # --- Save to GeoPackage ---
-gdf.to_file(r"D:\_RPA_Processing\Stage1\out\image_footprints_8.gpkg", layer="footprints", driver="GPKG")
+gdf.to_file(r"D:\_RPA_Processing\Stage1\out\image_footprints.gpkg", layer="footprints", driver="GPKG")
 
 print("GeoPackage created: image_footprints_correct_meters.gpkg")
 print("Attributes: SourceFile, AbsoluteAltitude, FocalLength, FlightYawDegree, GSD, FootprintWidth_m, FootprintHeight_m")
