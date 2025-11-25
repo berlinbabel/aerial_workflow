@@ -21,7 +21,7 @@ Step 3 - In the following order double click on
 
 1. server.bat and (2) node.bat
    
-![Alt text of the image](https://github.com/berlinbabel/aerial_workflow/img/node.png)
+https://github.com/berlinbabel/aerial_workflow/img/node.png
    
 4. node.bat
    
