@@ -1,4 +1,4 @@
-# Agisoft Distributed Processing
+# Agisoft Network* Distributed Processing
 
 The following instructions are for processing on a single PC, no networking. To distribute across multiple PC's other steps need to be implemented which are not covered here.
 
