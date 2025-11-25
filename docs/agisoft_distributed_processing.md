@@ -21,7 +21,9 @@ Step 3 - In the following order double click on
 
 1. server.bat and (2) node.bat
 
-   image here
+   
+<p align="center">img/node.png</p>
+
    
 4. node.bat
    
