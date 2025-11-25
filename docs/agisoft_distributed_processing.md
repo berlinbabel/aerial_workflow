@@ -35,4 +35,4 @@ Step 5 - Enter
 
 Step 6 - Agisoft monitor will look something like this
 
-Image Here 
+<img src="https://github.com/berlinbabel/aerial_workflow/blob/main/img/agisoft_monoitor.png"/>
