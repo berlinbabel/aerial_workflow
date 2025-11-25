@@ -12,4 +12,4 @@ pause</pre>
 
 Step 3 - In the following order double click on server.bat and node.bat
 
-Step 4
+Step 4 - Open the following app C:\Program Files\Agisoft\Metashape Pro\monitor.exe
