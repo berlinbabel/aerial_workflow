@@ -1,6 +1,6 @@
 # Agisoft Distributed Processing
 ## Steps
-Step 0 - Get IP Address using CMD 'ipconfig', copy and paste into next step.
+Step 0 - Get IP Address using CMD 'ipconfig', copy and paste the value adjacent to 'IPv4 Address' into next step.
 
 Step 1 - Create a server file with the following contents and save as server.bat
 
