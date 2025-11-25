@@ -20,10 +20,8 @@ pause</pre>
 Step 3 - In the following order double click on 
 
 1. server.bat and (2) node.bat
-
    
-<p align="center">img/node.png</p>
-
+image here
    
 4. node.bat
    
