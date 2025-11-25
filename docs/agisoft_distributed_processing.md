@@ -19,8 +19,7 @@ pause</pre>
 
 Step 3 - In the following order double click on 
 
-1. server.bat and (2) node.bat
-   
+1. server.bat and (2) node.bat   
 <img src="https://github.com/berlinbabel/aerial_workflow/blob/main/img/node.png"/>
    
 4. node.bat
