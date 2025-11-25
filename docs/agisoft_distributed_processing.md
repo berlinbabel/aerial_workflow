@@ -1,5 +1,7 @@
 # Agisoft Distributed Processing
 ## Steps
+Step 0 - Get IP Address using CMD 'ipconfig' Copy and paste into next step
+
 Step 1 - Create a server file with the following contents and save as server.bat
 
 <pre>"C:/Program Files/Agisoft/Metashape Pro/metashape-server.exe" --server 10.136.51.10 --control 10.136.51.10
