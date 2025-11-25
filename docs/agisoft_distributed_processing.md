@@ -1,4 +1,7 @@
 # Agisoft Distributed Processing
+
+The following instructions are for processing on a single PC, no networking. To distribute across multiple PC's other steps need to be implemented which are not covered here.
+
 ## Steps
 Step 0 - Get IP Address using CMD 'ipconfig', copy and paste the value adjacent to 'IPv4 Address' into next step.
 
