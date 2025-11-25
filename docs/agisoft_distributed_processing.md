@@ -22,3 +22,7 @@ Step 5 - Enter
 1. Host name:(IP Address)
 2. Port: 5840
 3. Hit Connect
+
+Step 6 - Agisoft monitor will look something like this
+
+Image Here 
