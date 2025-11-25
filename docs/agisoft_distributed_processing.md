@@ -14,6 +14,6 @@ Step 2 - Create a node file with the following contents and save as node.bat
   
 pause</pre>
 
-Step 3 - In the following order double click on server.bat and node.bat
+Step 3 - In the following order double click on (1) server.bat and (2) node.bat
 
 Step 4 - Open the following app C:\Program Files\Agisoft\Metashape Pro\monitor.exe
