@@ -17,3 +17,8 @@ pause</pre>
 Step 3 - In the following order double click on (1) server.bat and (2) node.bat
 
 Step 4 - Open the following app C:\Program Files\Agisoft\Metashape Pro\monitor.exe
+
+Step 5 - Enter
+a. Host name:(IP Address)
+b. Port: 5840
+c. Hit Connect
