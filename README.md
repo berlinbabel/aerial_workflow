@@ -5,5 +5,6 @@ Tips and tricks for processing aerial aquired images.
 2. [Lightroom Tweaks](docs/lightroom.md)
 3. [Create GSD Footprint](docs/create_gsd_footprint.md)
 4. [Agisoft Distributed Processing](docs/agisoft_distributed_processing.md)
+5. Copy images using file_name attribute from ExifTools csv
 
 ![Badge Description](https://img.shields.io/github/last-commit/berlinbabel/aerial_workflow)
